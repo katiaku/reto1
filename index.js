@@ -1,3 +1,8 @@
+function suma(num1, num2, num3) {
+    let suma = num1 + num2 + num3;
+    return suma
+}
+
 function resta(num1, num2) {
     let resta = num1 - num2;
     return resta
