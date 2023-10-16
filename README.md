@@ -1,6 +1,8 @@
 // # reto1
 // Codenotch Git Reto 1
 
+Esto es el proyecto actualizado.
+
 ### Merge rama1
 
 "rama1 had recent pushes less than a minute ago"
