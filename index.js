@@ -1,8 +1,3 @@
-function suma(num1, num2) {
-    let suma = num1 + num2;
-    return suma
-}
-
 function resta(num1, num2) {
     let resta = num1 - num2;
     return resta
@@ -23,4 +18,4 @@ function cuadrado(num) {
     return cuadrado
 }
 
-module.exports = {suma, resta, producto, division, cuadrado}
+module.exports = {resta, producto, division, cuadrado}
