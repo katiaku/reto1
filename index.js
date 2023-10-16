@@ -23,4 +23,4 @@ function cuadrado(num) {
     return cuadrado
 }
 
-module.exports = {suma, resta, producto, division, cuadrado}
+module.exports = {resta, producto, division, cuadrado}
